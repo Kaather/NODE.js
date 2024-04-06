@@ -1,0 +1,16 @@
+Question 1 : A quoi sert le fichier "package.json" créé par la commande npm init ?
+
+Ce fichier package.json permet de lister les dépendances, les scripts et les métadonnées.
+
+Question n°2 : A quoi sert le fichier "package-lock.json" généré suite à l’installation d'un package npm ?
+
+Ce fichier package.json permet de fixe les versions exactes des packages installés dans un projet npm,
+assurant que chaque personne qui télécharge le projet utilise les mêmes versions de dépendances.
+
+Question n°3 : Il est également possible d'installer un package de la façon suivante: npm install express --save-dev.
+               Quelle est la différence entre cette commande et celle vue précédemment ?
+               Est ce qu'installer express de cette façon est une bonne idée ?
+
+Cette commande ajoute Express en tant que dépendance de développement,
+indiquant qu'il est nécessaire uniquement pendant le développement et pas pour l'exécution de l'application en production.
+Cela peut être utile pour séparer les dépendances nécessaires uniquement pendant le développement de celles nécessaires en production.

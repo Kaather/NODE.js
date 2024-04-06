@@ -1,0 +1,7 @@
+[
+    { "userId": "U001", "products": ["P123", "P456", "P789"] },
+    { "userId": "U002", "products": ["P123", "P789"] },
+    { "userId": "U003", "products": ["P456"] },
+    { "userId": "U004", "products": ["P789"] },
+    { "userId": "U005", "products": ["P234", "P567"] }
+  ]

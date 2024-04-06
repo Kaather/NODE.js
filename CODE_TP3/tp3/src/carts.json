@@ -1,0 +1,6 @@
+[
+    { "userId": "U001", "items": [{ "name": "Product1", "price": 1000, "discountedPrice": 900 }, { "name": "Product2", "price": 1500, "discountedPrice": 1300 }] },
+    { "userId": "U002", "items": [{ "name": "Product3", "price": 1200, "discountedPrice": 1100 }] },
+    { "userId": "U003", "items": [] }
+  ]
+  

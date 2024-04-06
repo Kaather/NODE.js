@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "65f82b1e24e6b347e0f6d51f"
+  },
+  "username": "Toto",
+  "email": "toto@gmail.com",
+  "watchlist": [
+    {
+      "title": "Dune 1",
+      "state": "A voir"
+    },
+    {
+      "title": "Titanic",
+      "state": "A voir"
+    },
+    {
+      "title": "Shrek",
+      "state": "En cours"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f83761c448e87cfe7051f9"
+  },
+  "username": "Tata",
+  "email": "tata@gmail.com",
+  "watchlist": [
+    {
+      "title": "Shrek",
+      "state": "Terminé"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f83774c448e87cfe7051fa"
+  },
+  "username": "Tutu",
+  "email": "tutu@gmail.com"
+}]
